@@ -1,0 +1,7 @@
+Fun with type!
+
+Third pass at updating my old processing sketch to be compatible with Snow Leopard. 
+
+Requires Richard Marxer's <a href="http://www.ricardmarxer.com/geomerative/">Geomerative</a> library and Jeffrey Traer Bernstein's <a href="http://murderandcreate.com/physics/">traer.physics library.
+
+Note that right now, this sketch works great as an app (took fucking forever, as original sketch was written for 0135 in 2008), but currently wont render as an applet which is unfortunate because this is intended to be used on my portfolio site http://vincent.vanhaaff.com.
